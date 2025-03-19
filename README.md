@@ -16,6 +16,7 @@ Order Management
 
 Customers can view their order history and payment details.
 An order confirmation page is displayed upon successful purchase.
+
 2. Employee Module
 Manage Orders
 
@@ -27,6 +28,7 @@ Employees can add, update, and remove pet products and supplies.
 Customer Support
 
 Employees can assist customers by resolving order-related queries.
+
 3. Admin Module
 Manage Employees
 
@@ -37,10 +39,12 @@ Admin can view customer details and orders.
 Manage Products
 
 Admin can add, update, and delete pet supplies and pet products.
+
 4. Database Management
 a> Customers Table
 
 Stores customer details such as name, email, address, and login credentials.
+
 b> Employees Table
 
 Stores employee details, roles, and assigned tasks.
