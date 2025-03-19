@@ -1,0 +1,16 @@
+SMAP
+manageEmployees_jsp.java
+JSP
+*S JSP
+*F
++ 0 manageEmployees.jsp
+manageEmployees.jsp
+*L
+1,109:45
+110,11:155
+120,2:166
+122,8:168,3
+130,2:192
+132,9:195
+140,56:204
+*E
