@@ -41,6 +41,7 @@ Manage Products
 Admin can add, update, and delete pet supplies and pet products.
 
 4. Database Management
+   
 a> Customers Table
 
 Stores customer details such as name, email, address, and login credentials.
@@ -48,14 +49,21 @@ Stores customer details such as name, email, address, and login credentials.
 b> Employees Table
 
 Stores employee details, roles, and assigned tasks.
+
 c> Orders Table
 
 Stores order details, including order ID, customer details, total amount, and payment status.
+
 d> Products Table
 
 Maintains product information, including product name, price, and availability.
+
 Technologies Used
+
 Frontend: HTML, CSS, JavaScript, JSP
+
 Backend: Java Servlets, JDBC
+
 Database: Oracle Database
+
 Server: Apache Tomcat
